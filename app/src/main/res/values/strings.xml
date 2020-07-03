@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Go-izzah1</string>
+    <string name="dopamin">Dopamin (Dopamin, Dopamingiulini, Cetadop, Proinfank)</string>
+    <string name="fdopamin">Fungsi : Meningkatkan tekanan darah pasien gagal jantung, CRF, Infark,miocard, Renal Failure</string>
+    <string name="ddopamin">Dosis : 1A = 200mg/10ml -> Dioplos 50cc Nacl</string>
+
+    <!--DOBUTAMIN-->
+    <string name="dobu">Dobutamin (Dobuject, Dobutrex, Dobutamin Giulini)</string>
+    <string name="fdobu">Fungsi : CHF, Shock, Gagal Jantung</string>
+    <string name="ddobu">Dosis : 1A = 250mg/5ml -> Dioplos 50cc Nacl</string>
+
+    <!--VASCON-->
+    <string name="vascon">Vascon (Vascon, Levophed, Levosol)</string>
+    <string name="fvascon">Fungsi : Vasokonstriktor Pembuluh darah, Hipotensi Berat, Shock Distributive</string>
+    <string name="dvascon">Dosis : 1A = 4mg/4ml -> Dioplos 50cc Nacl</string>
+
+    <!--NITROGLISERIN-->
+    <string name="nitro">NTG/GTN/Nitrogliserin/ISDN/Isosorbid dinitrat (Isorbid, Isoket, Fasorbid)</string>
+    <string name="fnitro">Fungsi : Vasodilator, u/ pasien hipertensi, oedema panu, Shock Kardiogenik</string>
+    <string name="dnitro">Dosis : 1A = 10mg/10ml -> Tanpa diencerkan</string>
+
+    <!--NICARDIPIN-->
+    <string name="niicar">Nicardipin</string>
+    <string name="fniicar">Fungsi : Hipertensi, Angina</string>
+    <string name="dniicar">Dosis : 1A = 10mg/10ml -> Dioplos 50cc</string>
+
+    <!--FUROSEMID-->
+    <string name="furo">Furosemid</string>
+    <string name="ffuro">Fungsi : Membuang cairan/garam berlebih, Gagal jantung </string>
+    <string name="dfuro">Dosis : 1A = 20mg/2ml -> Tanpa Dioplos</string>
+
+    <!--MORFIN-->
+    <string name="morfin">Morfin</string>
+    <string name="dmorfin">Dosis : 10mg/cc -> Dioplos 10cc</string>
+    <string name="fmorfin">Fungsi : Nyeri Hebat</string>
+
+    <!--KOREKSI ELEKTROLIT-->
+    <string name="korek">Koreksi Elektrolit</string>
+    <string name="fkorek">Fungsi : Hipokalemi</string>
+    <string name="dkorek">Dosis : 1 Flakon = 25meg/25ml</string>
+
+    <!--IMT-->
+    <string name="imtviewS">Silahkan hitung IMT (Index Masa Tubuh) ideal anda sekarang !</string>
+
+    <!--IMT-->
+    <string name="mainviewS">Selamat datang di aplikasi Go-Izzah1. Ayo mulai dengan pilihanmu !</string>
+
+    <!--ig-->
+    <string name="idS">@sapto_end</string>
+</resources>
